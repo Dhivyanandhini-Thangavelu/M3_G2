@@ -17,7 +17,17 @@ Most vehicles today have remote controls with two buttons that control the locki
 3. Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
 4. Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
 
-# 3.Requirements
+# 4.State of Art
+1. Buttons and LED's are installed in REmote keyless entry system.
+2. Lock/Unlock, Alarm and Approach light Activation/Deactivation are provided.
+3. And also securing our car with a reliable Encryption System.
+4. Hack proof security is provided with encription.
+
+# 5.Swot Analysis
+![RKE SWOT ANALYSIS](https://user-images.githubusercontent.com/98883917/157844905-bce68ca8-b5c6-463d-84bd-01b94955fedc.jpg)
+
+
+# 6.Requirements
 ## High level requirements
 | HLR | Description |
 |-----|-------------|
