@@ -1,4 +1,6 @@
 # M3_G2
+# 1.Remote Keyless Entry
+# 2.BiCom System
 
 | PS number | Name |
 |-----------|------|
