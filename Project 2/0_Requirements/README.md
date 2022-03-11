@@ -1,8 +1,6 @@
 # About BiCom System
 # 1. Description
-A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. 
-•	keyfob -> car (like a unidirectional RKE system) 
-•	car -> keyfob (car status information for displaying on the keyfob by LED or display)
+A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Bicom Systems is a producer and vendor of Asterisk (PBX)-based unified communications devices for VoIP businesses which uses open standards of  telephony. Bicom Systems communication solution is a software suite developed by Bicom Systems, from essentials like PBXware to unified communications apps like gloCOM & gloCOM GO.
 
 # 2. Features
 1. Print window status (Blue switch on- All led on at the same time)
