@@ -8,5 +8,11 @@ A BiCom system is the extention of the unidirectional RKE to bidirectional RKE s
 3. Print car battery info – (Blue switch press three times- All led on in clockwise manner)
 4. Print Door status (Blue switch press four times- All led on in anti-clockwise manner)
 
+# 3. State of Art
+1. Buttons are provided to access the available features.
+2. Shows each and every information when the buttons are pressed in
+3. Alarm status of the car is displayed with a button press.
+4. Battery status of the car is displayed with a button press.
+
 
 
