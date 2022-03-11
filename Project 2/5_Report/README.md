@@ -28,7 +28,7 @@
 BiCom system is a communication system between car and its remote(Keyfob). The system gets its name as it performs two way communication (i.e) from remote to car and car to remote.This project is an extension of previous one. Here the transmission of data is from car to keyfob. The functionalities here are Window status, alarm status, car battery information, door status.These four functionalities will be implemented in this project. The previous project has Four functionalities for locking, unlocking, alarm activation and approach light which are transmitted to car. These functionalities are performed in project 1 RKE (Remote Keyless Entry).
 # ii Description
 A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Bicom Systems is a producer and vendor of Asterisk (PBX)-based unified communications devices for VoIP businesses which uses open standards of  telephony. Bicom Systems communication solution is a software suite developed by Bicom Systems, from essentials like PBXware to unified communications apps like gloCOM & gloCOM GO.
-# iii Features
+# iii Features 
 1. Print window status (Blue switch on- All led on at the same time)
 2. Print alarm status - (Blue switch press two times- All led off at the same time
 3. Print car battery info – (Blue switch press three times- All led on in clockwise manner)
