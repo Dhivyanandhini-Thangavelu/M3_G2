@@ -2,13 +2,16 @@
 
 # 1.About Remote Keyless Entry
 
-## 1.1 Description
+## 1 Description
 * Over 70% of the vehicles made today come with a remote keyless entry  system either standard or as an option. 
 * RKE systems are also a high volume after-market accessory. Most remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors and trunk. Some include remote start and car finder functions.
 * These applications require good transmit-receive range and reliable transmission. Increased receiver sensitivity and high transmit power  directly impact range and reliability.
 * Low price is an obvious requirement, as there are millions of these systems being installed.
 
-# 2.Requirements
+# 2.Abstract
+Most vehicles today have remote controls with two buttons that control the locking and the unlocking of the doors of the vehicles. The development of RFID (Radio Frequency Identification) technology will soon replace this method of opening and closing of the doors. When a transponder is placed near a reader, it will start to communicate with the reader and once the information exchange is successful, the door will open.
+
+# 3.Requirements
 ## High level requirements
 | HLR | Description |
 |-----|-------------|
