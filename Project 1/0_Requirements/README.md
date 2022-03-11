@@ -12,10 +12,10 @@
 Most vehicles today have remote controls with two buttons that control the locking and the unlocking of the doors of the vehicles. The development of RFID (Radio Frequency Identification) technology will soon replace this method of opening and closing of the doors. When a transponder is placed near a reader, it will start to communicate with the reader and once the information exchange is successful, the door will open.
 
 # 3.Features
-•	Print lock – (Blue switch on- All led on at the same time)
-•	Print unlock - (Blue switch press two times- All led off at the same time)
-•	Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
-•	Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
+1. Print lock – (Blue switch on- All led on at the same time)
+2. Print unlock - (Blue switch press two times- All led off at the same time)
+3. Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
+4. Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
 
 # 3.Requirements
 ## High level requirements
