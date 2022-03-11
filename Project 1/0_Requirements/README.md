@@ -23,6 +23,10 @@
 |HLR_01| LLR_01|LED shall be on according to the switch(press button)|
 |HLR_01|LLR_02|LED shall be on in clock wise manner according to the switch(press button)|
 
+# 3.SWOT analysis
+![RKE SWOT ANALYSIS](https://user-images.githubusercontent.com/98894505/157807641-88b5320a-01f8-48cb-86a9-c23330dbfda0.jpg)
+
+
 
 
 
