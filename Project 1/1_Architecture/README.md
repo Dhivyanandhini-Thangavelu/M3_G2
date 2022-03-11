@@ -9,7 +9,7 @@
 # 1.2.2 Low Level Flow chart Behavioural Diagram
 ![Behavioural Low Level Diagram 1](https://user-images.githubusercontent.com/98813206/157873269-11e14f92-b553-4258-be14-2f1c4aeadafd.png)
 
-# 1.3 Structral diagram
+# 1.3 Structral Diagram
 # 1.3.1 High Level UML Use Case Structural Diagram
 ![Structural High Level Diagram](https://user-images.githubusercontent.com/98813206/157873331-e01a3227-8a41-43dc-a8b0-c7a0ab239445.png)
 
