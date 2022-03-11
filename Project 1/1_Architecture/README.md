@@ -16,3 +16,4 @@
 # 1.3.2 Low Level UML Use Case Structural Diagram
 ![Structural Low Level Diagram](https://user-images.githubusercontent.com/98813206/157873366-ae06efb0-d594-456c-89cb-8fd662bc53af.png)
 
+
