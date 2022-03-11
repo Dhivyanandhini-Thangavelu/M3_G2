@@ -26,6 +26,10 @@
 # 3.SWOT analysis
 ![RKE SWOT ANALYSIS](https://user-images.githubusercontent.com/98894505/157807641-88b5320a-01f8-48cb-86a9-c23330dbfda0.jpg)
 
+# 4.5W's and 1H
+![5W's and 1H](https://user-images.githubusercontent.com/98894505/157813566-fd73e6c1-44b2-4524-a984-eba7af8068f1.jpg)
+
+
 
 
 
