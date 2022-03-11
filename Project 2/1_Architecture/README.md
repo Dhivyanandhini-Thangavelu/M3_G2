@@ -5,7 +5,7 @@
 
 # 1.2 Structural diagrams
 
-## 1.2.1 Hugh level structural diagram
+## 1.2.1 High level structural diagram
 ![image](https://user-images.githubusercontent.com/98894505/157897998-2063c377-aafe-400f-a0b2-611d09bd8652.png)
 
 
