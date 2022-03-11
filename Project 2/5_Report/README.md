@@ -1,24 +1,28 @@
 # BiCom System
 # Table of content (V1.1)
-1.About the BiCom System
+# 1.About the BiCom System
    i.Abstract
    ii.Description
    iii.Identifying features
    iv.State of art
    v.5W’s & 1H and S.W.O.T analysis
-2.Requirements
+# 2.Requirements
    i.High level requirements
    ii.Low level requirements
-3.Architecture
-  i.Behavioural Diagram
+# 3.Architecture
+  i.Block diagram
+  ii.Behavioural Diagram
      a.High Level Flow chart Behavioural Diagram
      b.Low Level Flow chart Behavioural Diagram
-  ii.Structural Diagram
+  iii.Structural Diagram
      a.High Level UML Use Case Structural Diagram
      b.Low Level UML Use Case Structural Diagram
-4.Test plan and Output
+# 4.Test plan and Output
   i.High level test plan
   ii.Low level test plan
+# 5.Applications
+
+
 # 1. About the BiCom System 
 # i Abstract  
 BiCom system is a communication system between car and its remote(Keyfob). The system gets its name as it performs two way communication (i.e) from remote to car and car to remote.This project is an extension of previous one. Here the transmission of data is from car to keyfob. The functionalities here are Window status, alarm status, car battery information, door status.These four functionalities will be implemented in this project. The previous project has Four functionalities for locking, unlocking, alarm activation and approach light which are transmitted to car. These functionalities are performed in project 1 RKE (Remote Keyless Entry).
@@ -68,6 +72,29 @@ Through the buttons available in remote.
 |HLR_01|LLR_02|According to press the button, all LED's shall be off at same time|
 |HLR_03|LLR_03|According to press the button, all LED's are on in Clockwise manner|
 |HLR_04|LLR_04|According to press the button, all LED's are on in Anticlockwise manner|
+
+## 3.Architecture
+
+# i Block diagram
+![Block diagram Bicon system](https://user-images.githubusercontent.com/98894505/157891082-ed72a164-4482-46f9-9802-943ab4f130f0.jpg)
+
+# ii Structural diagrams
+
+## a High level structural diagram
+![image](https://user-images.githubusercontent.com/98894505/157897998-2063c377-aafe-400f-a0b2-611d09bd8652.png)
+
+
+## b Low level structural diagram
+![image](https://user-images.githubusercontent.com/98894505/157897966-76d93103-4341-4409-89b2-2df5aa7df8bc.png)
+
+# iii Behavioural diagramms 
+
+## a High level behavioural diagram
+![image](https://user-images.githubusercontent.com/98894505/157898382-d3d56a45-7151-40c2-9168-33e725c6e1c1.png)
+
+# b Low level behavioural diagram
+![image](https://user-images.githubusercontent.com/98894505/157898493-c300e652-6670-47e9-8ebd-26448dbc8933.png)
+
 
 
 
