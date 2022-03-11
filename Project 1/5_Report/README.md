@@ -70,8 +70,27 @@
 |HLR_04|LLR_01| It shall be provided with implementations of encryption and rolling code algorithms to prevent car thieves|
 |HLR_04|LLR_02|It shall be provided with theft protection|
 
+## 3.Architecture
+# i Block diagram
+![Block diagram  RKE](https://user-images.githubusercontent.com/98894505/157882571-7570c9c6-ab71-44fd-b8fb-c762b738c6e6.jpg)
 
-## APPLICATION
+# ii Behavioural diagram
+# a High Level Flow chart Behavioural Diagram 
+![Behavioural High Level Diagram 1](https://user-images.githubusercontent.com/98813206/157873206-5a15f575-8527-49d5-b146-884685de7e99.png)
+
+# b Low Level Flow chart Behavioural Diagram
+![Behavioural Low Level Diagram 1](https://user-images.githubusercontent.com/98813206/157873269-11e14f92-b553-4258-be14-2f1c4aeadafd.png)
+
+# iii Structral diagram
+# a High Level UML Use Case Structural Diagram
+![Structural High Level Diagram](https://user-images.githubusercontent.com/98813206/157873331-e01a3227-8a41-43dc-a8b0-c7a0ab239445.png)
+
+# b Low Level UML Use Case Structural Diagram
+![Structural Low Level Diagram](https://user-images.githubusercontent.com/98813206/157873366-ae06efb0-d594-456c-89cb-8fd662bc53af.png)
+
+
+
+## Applications
   1. It can be widely used in automobiles,an RKS performs the functions of a standard car key without hysical contact.
   2. When ithin a few yards of the car , pressing a button on the remote can lock or unlock the doors .
   3. It may also performs some other functions
