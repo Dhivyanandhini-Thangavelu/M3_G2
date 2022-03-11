@@ -11,6 +11,12 @@
 # 2.Abstract
 Most vehicles today have remote controls with two buttons that control the locking and the unlocking of the doors of the vehicles. The development of RFID (Radio Frequency Identification) technology will soon replace this method of opening and closing of the doors. When a transponder is placed near a reader, it will start to communicate with the reader and once the information exchange is successful, the door will open.
 
+# 3.Features
+•	Print lock – (Blue switch on- All led on at the same time)
+•	Print unlock - (Blue switch press two times- All led off at the same time)
+•	Print alarm activation/deactivation - (Blue switch press three times- All led on in clockwise manner)
+•	Print approach light - (Blue switch press four times- All led on in anti-clockwise manner)
+
 # 3.Requirements
 ## High level requirements
 | HLR | Description |
@@ -25,6 +31,8 @@ Most vehicles today have remote controls with two buttons that control the locki
 |---|---|----------|
 |HLR_01| LLR_01|LED shall be on according to the switch(press button)|
 |HLR_01|LLR_02|LED shall be on in clock wise manner according to the switch(press button)|
+|HLR_03|LLR_03|LED shall be on in Anti-clock wise manner according to the switch|
+|HLR_04|LLR_04|LED should be off at same time|
 
 
 
