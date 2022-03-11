@@ -1,4 +1,4 @@
-## 1.Architecture
+# 1.Architecture
 # 1.1 Block diagram
 ![Block diagram  RKE](https://user-images.githubusercontent.com/98894505/157882571-7570c9c6-ab71-44fd-b8fb-c762b738c6e6.jpg)
 
