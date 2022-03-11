@@ -26,8 +26,21 @@ Most vehicles today have remote controls with two buttons that control the locki
 # 5.Swot Analysis
 ![RKE SWOT ANALYSIS](https://user-images.githubusercontent.com/98883917/157844905-bce68ca8-b5c6-463d-84bd-01b94955fedc.jpg)
 
+# 6.5W's & 1H
+## What
+Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.RKE transmission requires two components - a transmitter and a receiver. 
+## Who
+People having automobile vehicles.
+## When
+When users want to lock or unlock access to automobiles.
+## Where
+In the automobile Vehicles.
+## Why
+For security reasons and easily access to vehicles.
+## How
+By pressing the button on the remote.
 
-# 6.Requirements
+# 7.Requirements
 ## High level requirements
 | HLR | Description |
 |-----|-------------|
