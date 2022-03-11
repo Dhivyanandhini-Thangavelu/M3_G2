@@ -8,7 +8,7 @@
 * These applications require good transmit-receive range and reliable transmission. Increased receiver sensitivity and high transmit power  directly impact range and reliability.
 * Low price is an obvious requirement, as there are millions of these systems being installed.
 
-## Identifying features:
+## 1.2 Identifying features:
 * Keyless entry systems are used to remotely lock, unlock and start your car's engine using RF signals.
 * It contains command and for security, rolling codes. 
 * The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU. The CPU decodes it and sends commands to the command module.
