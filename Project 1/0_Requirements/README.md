@@ -8,6 +8,17 @@
 * These applications require good transmit-receive range and reliable transmission. Increased receiver sensitivity and high transmit power  directly impact range and reliability.
 * Low price is an obvious requirement, as there are millions of these systems being installed.
 
+## Identifying features:
+* Keyless entry systems are used to remotely lock, unlock and start your car's engine using RF signals.
+* It contains command and for security, rolling codes. 
+* The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU. The CPU decodes it and sends commands to the command module.
+
+## 1.3 State of art
+* Here, The Main focus point  is to controlling the car remotely and also to  securing our car with a reliable Encryption System.
+* Now the above  two features are combined and made into one product .
+  i.e. RKE
+* As the world PACE-FORWARD, our technology needs to catch up to the world.
+
 # 2.Requirements
 ## High level requirements
 | HLR | Description |
