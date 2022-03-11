@@ -1,6 +1,6 @@
 # M3_Group2
 
-| Sections | Contributors |
-|----------|--------------|
-|      hh  | hh           |
-|      hh  |  hh          |
+| project | sections | Contributors |
+|----------|---------|--------------|
+|      hh  | hh      |jj|
+|      hh  |  hh     |   kk|
