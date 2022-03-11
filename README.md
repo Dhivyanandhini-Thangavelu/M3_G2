@@ -1,4 +1,4 @@
-# M3_Group2
+# M3_G2
 
 | project | sections | Contributors |
 |----------|---------|--------------|
