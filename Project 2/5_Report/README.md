@@ -47,3 +47,8 @@ Through the buttons available in remote.
 |HLR_01|LLR_02|According to press the button, all LED's shall be off at same time|
 |HLR_03|LLR_03|According to press the button, all LED's are on in Clockwise manner|
 |HLR_04|LLR_04|According to press the button, all LED's are on in Anticlockwise manner|
+
+# Applications
+1. This system can be used in Fan , Light and Door Control and also can be used to know number of appliances like Fans and Lights "On" status in  Houses,Industries,Stadiums etc...
+2. It can be used in Automatic Temperature Detector in Houses,Industries,Stadiums etc...
+3. It is everything you need to communicate, collaborate and connect.
