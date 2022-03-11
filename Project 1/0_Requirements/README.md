@@ -15,14 +15,19 @@
 | HLR_01| This shall provide wireless lock and unlock |
 | HLR_02| It requires wireless alarm activation and deactivation|
 | HLR_03| It shall be provided with approach light|
-| HLR_04 | It shall be provided with implementations of encryption and rolling code algorithms to prevent car thieves|
+| HLR_04 | It shall be provided with hack proof technology|
 
 ## Low level requirements
 |HLR|LLR|Descripton|
 |---|---|----------|
 |HLR_01| LLR_01|LED shall be on according to the switch(press button)|
 |HLR_01|LLR_02|LED shall be on in clock wise manner according to the switch(press button)|
-
+|HLR_02|LLR_01|Alarm shall be activated according to the push button|
+|HLR_02|LLR_02|Alarm shall be deactivated according to the push button|
+|HLR_03|LLR_01|It shall be provided with commands for safety purposes |
+|HLR_03|LLR_02|It shall be provided with threat identification|
+|HLR_04|LLR_01| It shall be provided with implementations of encryption and rolling code algorithms to prevent car thieves|
+|HLR_04|LLR_02|It shall be provided with theft protection|
 # 3.SWOT analysis
 ![RKE SWOT ANALYSIS](https://user-images.githubusercontent.com/98894505/157807641-88b5320a-01f8-48cb-86a9-c23330dbfda0.jpg)
 
