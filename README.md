@@ -17,8 +17,8 @@
 |---------|--------------|
 | Requirements | Sandhyavathi K ,Dhivyanandhini T,Sahil Goutam , Gowrishankar Chandrasekar|
 | Architecture |Dhivyanandhini T, Sandhyavathi K, Gowrishamkar Chandrasekar|
-| Implementation | Dhivyanandhini T|
-| Report |  Sandhyavathi K ,Sahil Goutam , Gowrishankar Chandrasekar|
+| Implementation | Dhivyanandhini T,Sandhyavathi K, Gowrishamkar Chandrasekar,Sahil Goutam|
+| Report |  Sandhyavathi K ,Sahil Goutam , Gowrishankar Chandrasekar, Dhivyanandhini T|
 | Applications| Sandhyavathi K ,Sahil Goutam , Gowrishankar Chandrasekar|
 
 
