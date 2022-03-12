@@ -18,18 +18,7 @@ A BiCom system is the extention of the unidirectional RKE to bidirectional RKE s
 ![bicom](https://user-images.githubusercontent.com/98883917/157861955-4c4b8a5e-72a3-4379-bcb6-e2aa20738a77.jpg)
 
 # 5. 5W's & 1H
-## What
-A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system.
-## Who
-People using Automobiles.
-## When
-Whenever users want to lock or unlock access to automobiles and to know the status of battery, doors.
-## Where
-In there Vehicles.
-## Why
-For security purposes and controlling several functions.
-## How
-Through the buttons available in remote.
+![Colorful Minimalist Linear Steps Circular Diagram (4)](https://user-images.githubusercontent.com/98894505/157994788-463403d3-6719-483b-98eb-047d0a3f6b6f.png)
 
 # 6. Requirements
 ## High Level Requirements
