@@ -95,14 +95,28 @@ Through the buttons available in remote.
 # b Low level behavioural diagram
 ![image](https://user-images.githubusercontent.com/98894505/157898493-c300e652-6670-47e9-8ebd-26448dbc8933.png)
 
+# 4 Test plan and Output
+
+## i High Level test plan
+
+| Test ID| Description |Status|
+|-----|-------------|---------|
+|1| It will prints the status of the window |Implemented|
+|2| It will  print the status of alarm |Implementted|
+|3| It will print the information about the battery of the car |Implemented|
+|4| It will print the status of the door |Implemented|
+
+## ii Low Level test plan
+
+|Test ID| Description |Status |
+|------|----------------------------------------------|-------|
+|1|According to press the button, all LED's shall be on at same time|Implemented|
+|2||According to press the button, all LED's shall be off at same time|Implemented|
+|3|According to press the button, all LED's are on in Clockwise manner|Implemented|
+|4|According to press the button, all LED's are on in Anticlockwise manner|Implemented|
 
 
-
-
-
-
-
-# Applications of bicom system
+# 5 Applications of bicom system
 ✓ This system can be used in Fan , Light and Door Control and also can be used to know number of appliances like Fans and Lights "On" status in  Houses,Industries,Stadiums etc...
 ✓ It can be used in Automatic Temperature Detector in Houses,Industries,Stadiums etc...
 
