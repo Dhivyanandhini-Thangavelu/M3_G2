@@ -1,6 +1,6 @@
 # Remote Keyless Entry
 # Table of content (V1.1)
-# 1.About the BiCom System
+# 1.Remote Keyless Entry
    i.Abstract
    ii.Description
    iii.Identifying features
