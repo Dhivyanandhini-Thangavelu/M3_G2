@@ -23,3 +23,4 @@
 |7| It shall be provided with implementations of encryption and rolling code algorithms to prevent car thieves|Implemented|
 |8|It shall be provided with theft protection|Implemented|
 
+ 
