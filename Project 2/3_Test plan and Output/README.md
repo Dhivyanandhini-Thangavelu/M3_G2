@@ -12,7 +12,7 @@
 ## Low Level test plan
 
 |Test ID| Description |Status |
-|---|---|-------------|-------|
+|------|-------------|-------|
 |1|According to  press the button, all LED's shall be on at same time|Implemented|
 |2||According to press the button, all LED's shall be off at same time|Implemented|
 |3|According to press the button, all LED's are on in Clockwise manner|Implemented|
